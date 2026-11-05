@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-markets-nuxt",
+  "capabilityKey": "planned:ecommerce:markets",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-markets-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/markets.md",
+  "presentationPlan": "projects/ecommerce/nuxt/markets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
